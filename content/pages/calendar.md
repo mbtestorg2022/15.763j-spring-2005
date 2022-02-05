@@ -4,21 +4,249 @@ title: Calendar
 uid: e1c636fa-b1c8-badd-0bd1-9b3c6e6b3f56
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and Course Overview |  {{< br >}}{{< br >}} Prepare case: Use of a Queueing Model to design a lean system. {{< br >}}{{< br >}} Case illustrates use of simple model to line design decisions. {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Manufacturing System Design {{< br >}}{{< br >}} Class will introduce and discuss key topics in manufacturing system design by means of an example: design of a PC production facility, including choice of assembly configuration, set up of material handling system, capacity sizing. {{< br >}}{{< br >}}  |  |
-| 3 | Manufacturing System Design: Service Systems | Prepare case: Manzana Insurance-Fruitvale Branch |
-| 4 | Supply Chain Design I |  |
-| 5 |  {{< br >}}{{< br >}} Manufacturing System Design: High volume automated lines - choice of buffers and buffer sizing {{< br >}}{{< br >}} Guest speaker: Dr. Mitchell Burman, Analytics, Inc. Boston MA. In this class we will hear about various projects on the analysis and design of automated production lines with finite buffers. {{< br >}}{{< br >}}  | Queuing Modeling Assignment due |
-| 6 | Supply Chain Design II |  |
-| 7 | Decentralized Distribution Systems |  |
-| 8 | Revenue Management |  {{< br >}}{{< br >}} Prepare case: Transportation National Group {{< br >}}{{< br >}} Case examines pricing issues for trailers. {{< br >}}{{< br >}}  |
-| 9 | Guest Speaker |  |
-| 10 | Pricing Strategies |  |
-| 11 | Design of a Supply Chain for a New Product | Logistic System Design Assignment due |
-| 12 | Guest Speaker: Mike Romeri, Lead Director, Process Technology Group at PRTM |  |
-| 13 | Flexibility and Capacity Planning |  {{< br >}}{{< br >}} Prepare case: Seagate Technologies: Operational Hedging {{< br >}}{{< br >}} Case illustrates capacity hedging strategies. {{< br >}}{{< br >}}  |
-| 14 | Internet Based B2B Procurement Strategies | Procurement Game Assignment due |
-| 15 | Flexibility and Capacity Planning |  {{< br >}}{{< br >}} Computer exercise {{< br >}}{{< br >}} Capacity Planning and Flexibility Assignment due {{< br >}}{{< br >}}  |
-| 16 | Class Summary and Wrap Up |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Course Overview
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Prepare case: Use of a Queueing Model to design a lean system.
+
+Case illustrates use of simple model to line design decisions.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Manufacturing System Design
+
+Class will introduce and discuss key topics in manufacturing system design by means of an example: design of a PC production facility, including choice of assembly configuration, set up of material handling system, capacity sizing.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Manufacturing System Design: Service Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare case: Manzana Insurance-Fruitvale Branch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Supply Chain Design I
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Manufacturing System Design: High volume automated lines - choice of buffers and buffer sizing
+
+Guest speaker: Dr. Mitchell Burman, Analytics, Inc. Boston MA. In this class we will hear about various projects on the analysis and design of automated production lines with finite buffers.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Queuing Modeling Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Supply Chain Design II
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Decentralized Distribution Systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Revenue Management
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Prepare case: Transportation National Group
+
+Case examines pricing issues for trailers.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Speaker
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Pricing Strategies
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Design of a Supply Chain for a New Product
+{{< tdclose >}}
+{{< tdopen >}}
+Logistic System Design Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Speaker: Mike Romeri, Lead Director, Process Technology Group at PRTM
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Flexibility and Capacity Planning
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Prepare case: Seagate Technologies: Operational Hedging
+
+Case illustrates capacity hedging strategies.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Internet Based B2B Procurement Strategies
+{{< tdclose >}}
+{{< tdopen >}}
+Procurement Game Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Flexibility and Capacity Planning
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Computer exercise
+
+Capacity Planning and Flexibility Assignment due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Class Summary and Wrap Up
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

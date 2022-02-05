@@ -41,23 +41,143 @@ Course Requirements
 
 The written assignments are to be done by groups. Each group must have at least three and no more than four students. Each group needs to stay together for the term.
 
-| Written assignments | Due dates | PointS |
-| --- | --- | --- |
-| Manzana Insurance | Session 3 | 15 |
-| Transportation National Group | Session 8 | 15 |
-| Metal Work | Session 10 | 30 |
-| Seagate | Session 13 | 15 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Written assignments
+{{< thclose >}}
+{{< thopen >}}
+Due dates
+{{< thclose >}}
+{{< thopen >}}
+PointS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Manzana Insurance
+{{< tdclose >}}
+{{< tdopen >}}
+Session 3
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Transportation National Group
+{{< tdclose >}}
+{{< tdopen >}}
+Session 8
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Metal Work
+{{< tdclose >}}
+{{< tdopen >}}
+Session 10
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Seagate
+{{< tdclose >}}
+{{< tdopen >}}
+Session 13
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 **Each group must submit the Metal Works case and two other written assignments of its choosing: each assignment should be no more than 4 typed pages, no smaller than this font (Times, 12 point); 2-3 pages should be sufficient for most assignments**_._
 
 In addition there are four small assignments.
 
-| assignments | Due dates | Points |
-| --- | --- | --- |
-| Queuing Modeling | Session 5 | 10 |
-| Logistic System Design | Session 11 | 10 |
-| Procurement Game | Session 14 | 10 |
-| Capacity Planning and Flexibility | Session 15 | 10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+assignments
+{{< thclose >}}
+{{< thopen >}}
+Due dates
+{{< thclose >}}
+{{< thopen >}}
+Points
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Queuing Modeling
+{{< tdclose >}}
+{{< tdopen >}}
+Session 5
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Logistic System Design
+{{< tdclose >}}
+{{< tdopen >}}
+Session 11
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Procurement Game
+{{< tdclose >}}
+{{< tdopen >}}
+Session 14
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Capacity Planning and Flexibility
+{{< tdclose >}}
+{{< tdopen >}}
+Session 15
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Students are encouraged to participate in class. Individual students can earn up to three points from their participation. We will judge class participation based on the quality of answers given to posed questions, contributions to a discussion of case material, and questions raised by the student.
 

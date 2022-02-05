@@ -20,21 +20,237 @@ Shapiro, Jeremy. _Modeling the Supply Chain_. Pacific Grove, CA: Duxbury, 2001. 
 
 Silver, Edward, David Pyke, and Rein Peterson. _Inventory Management and Production Planning and Scheduling_. 3rd ed. New York, NY: Wiley, 1998. ISBN: 0471119474. (SPP)
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction and Course Overview |  |
-| 2 |  {{< br >}}{{< br >}} Manufacturing System Design {{< br >}}{{< br >}} Class will introduce and discuss key topics in manufacturing system design by means of an example: design of a PC production facility, including choice of assembly configuration, set up of material handling system, capacity sizing. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Furey, T. M. "Decision Elements in the Design of a Consumer Electronics Assembly Plant." S. M. thesis. MIT, 1999. {{< br >}}{{< br >}} _Optional Readings_ {{< br >}}{{< br >}} N, pp. 447-452, and 561-598. {{< br >}}{{< br >}} HS, pp. 626-645. {{< br >}}{{< br >}} Alvarez Lopez, Liana. "Design and Implementation of Cellular Manufacturing in a Job Shop Environment." S. M. thesis. MIT, 1997. {{< br >}}{{< br >}}  |
-| 3 | Manufacturing System Design: Service Systems |  |
-| 4 | Supply Chain Design I | Read: SKS, Chapter 2. |
-| 5 |  {{< br >}}{{< br >}} Manufacturing System Design: High volume automated lines - choice of buffers and buffer sizing {{< br >}}{{< br >}} Guest speaker - Dr. Mitchell Burman, Analytics, Inc. Boston, MA. In this class we will hear about various projects on the analysis and design of automated production lines with finite buffers. {{< br >}}{{< br >}}  | Burman, M., S. Gershwin, and C. Suyematsu. "HP Uses Operations Research to Improve the Design of a Printer Production Line." _Interfaces_ 28 (Jan-Feb 1998): 24-36. |
-| 6 | Supply Chain Design II | Read the MetalWork Corporation Case |
-| 7 | Decentralized Distribution Systems |  |
-| 8 | Revenue Management | Read: SKS, Chapter 7. |
-| 9 | Guest Speaker |  |
-| 10 | Pricing Strategies |  |
-| 11 | Design of a Supply Chain for a New Product | Graves, S., and S. Willems. "Optimizing the Supply-Chain Configuration for New Products." _Proceedings of the 2000 MSOM Conference_. Ann Arbor, MI: University of Michigan, June 2000, p. 8. |
-| 12 | Guest Speaker: Mike Romeri, Lead Director, Process Technology Group at PRTM |  |
-| 13 | Flexibility and Capacity Planning |  |
-| 14 | Internet Based B2B Procurement Strategies |  |
-| 15 | Flexibility and Capacity Planning |  |
-| 16 | Class Summary and Wrap Up |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Course Overview
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Manufacturing System Design
+
+Class will introduce and discuss key topics in manufacturing system design by means of an example: design of a PC production facility, including choice of assembly configuration, set up of material handling system, capacity sizing.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Furey, T. M. "Decision Elements in the Design of a Consumer Electronics Assembly Plant." S. M. thesis. MIT, 1999.
+
+_Optional Readings_
+
+N, pp. 447-452, and 561-598.
+
+HS, pp. 626-645.
+
+Alvarez Lopez, Liana. "Design and Implementation of Cellular Manufacturing in a Job Shop Environment." S. M. thesis. MIT, 1997.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Manufacturing System Design: Service Systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Supply Chain Design I
+{{< tdclose >}}
+{{< tdopen >}}
+Read: SKS, Chapter 2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Manufacturing System Design: High volume automated lines - choice of buffers and buffer sizing
+
+Guest speaker - Dr. Mitchell Burman, Analytics, Inc. Boston, MA. In this class we will hear about various projects on the analysis and design of automated production lines with finite buffers.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Burman, M., S. Gershwin, and C. Suyematsu. "HP Uses Operations Research to Improve the Design of a Printer Production Line." _Interfaces_ 28 (Jan-Feb 1998): 24-36.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Supply Chain Design II
+{{< tdclose >}}
+{{< tdopen >}}
+Read the MetalWork Corporation Case
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Decentralized Distribution Systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Revenue Management
+{{< tdclose >}}
+{{< tdopen >}}
+Read: SKS, Chapter 7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Speaker
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Pricing Strategies
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Design of a Supply Chain for a New Product
+{{< tdclose >}}
+{{< tdopen >}}
+Graves, S., and S. Willems. "Optimizing the Supply-Chain Configuration for New Products." _Proceedings of the 2000 MSOM Conference_. Ann Arbor, MI: University of Michigan, June 2000, p. 8.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Speaker: Mike Romeri, Lead Director, Process Technology Group at PRTM
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Flexibility and Capacity Planning
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Internet Based B2B Procurement Strategies
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Flexibility and Capacity Planning
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Class Summary and Wrap Up
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
