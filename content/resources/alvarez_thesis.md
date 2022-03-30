@@ -11,6 +11,7 @@ description: The thesis proposes a method for introducing cellular manufacturing
   from thisprocess.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/fa9a0dee83c3b0a908a99c69f0508691_alvarez_thesis.pdf
 file_type: application/pdf
+parent_uid: 16cd8037-8a80-d9e3-5548-d52ab9f2607f
 resourcetype: Document
 title: alvarez_thesis.pdf
 uid: fa9a0dee-83c3-b0a9-08a9-9c69f0508691
